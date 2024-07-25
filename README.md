@@ -18,7 +18,7 @@ dark and light mode for user preference.
 
 ## Technologies Used
 
-- **Astro:** A powerful framework for building modern web applications with Vue.js.
+- **Astro:** A powerful framework for content-driven websites.
 
 - **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 
@@ -34,7 +34,7 @@ dark and light mode for user preference.
 2. **Navigate to the project directory.**
 
    ```bash
-   cd portfolio-template
+   cd portfolio-template-astro
 
    ```
 
