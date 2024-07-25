@@ -52,7 +52,7 @@ dark and light mode for user preference.
 
    ```
 
-5. **Open your browser and visit http://localhost:3000 to view the portfolio template.**
+5. **Open your browser and visit http://localhost:4321 to view the portfolio template.**
 
 ## Live Version
 
